@@ -1,6 +1,6 @@
 # coded---era
-this is my first Repository
-<br>
 Hi 
 <br>
-here are some code learning towards 
+This is my first Repository
+<br>
+Here are some code learning towards 
